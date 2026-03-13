@@ -454,3 +454,4 @@
 /Users/ritikrajsingh/Desktop/StudentEngagementTracker/obj/Debug/net10.0/StudentEngagementTracker.pdb
 /Users/ritikrajsingh/Desktop/StudentEngagementTracker/obj/Debug/net10.0/StudentEngagementTracker.genruntimeconfig.cache
 /Users/ritikrajsingh/Desktop/StudentEngagementTracker/obj/Debug/net10.0/ref/StudentEngagementTracker.dll
+/Users/ritikrajsingh/Desktop/StudentEngagementTracker/obj/Debug/net10.0/StudentEngagementTracker.sourcelink.json
